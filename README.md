@@ -1,6 +1,6 @@
 # Bluff Game
 
-This is my python project for Object-Oriented Programming course on the University of Wroclaw (summer semester 2022/2023).
+This is my python project for Object-Oriented Programming course at the University of Wroclaw (summer semester 2022/2023).
 
 ## Description
 This project is an implementation of a card game that can be played online with multiple players. It utilizes the Pygame library for the graphical interface and socket programming for networking functionality. Players can connect to a server and play the card game together over the network.
